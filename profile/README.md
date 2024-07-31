@@ -1,5 +1,5 @@
 # Cybersecurity | Consulting | Smart Contract Audit | Blockchain Audit
-![softstack_github_banner](https://pbs.twimg.com/profile_banners/1721494034227601408/1705013763/1200x200)
+![softstack_github_banner](https://pbs.twimg.com/profile_banners/1721494034227601408/1705013763/600x200)
 
 Empower your crypto venture with Line1 – where innovation meets ironclad security. Your journey into blockchain begins with us, your first line of defense against vulnerabilities and risks. Line1’s auditing team has been ensuring the security of crypto projects since 2020.
 
