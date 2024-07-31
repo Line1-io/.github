@@ -1,4 +1,4 @@
-# Cybersecurity | Consulting | Smart Contract Audit | Blockchain Audit
+# Cybersecurity | Smart Contract Audit | Blockchain Audit
 <p align="center">
 <img src="https://pbs.twimg.com/profile_banners/1721494034227601408/1705013763/600x200" border="10"/>
 </p>
